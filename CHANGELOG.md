@@ -1,3 +1,7 @@
+# 0.1.2
+
+* [FIX] Module exports should be wrapped in rules
+
 # 0.1.1
 
 * NPM Publishing fixes
