@@ -66,5 +66,5 @@ module.exports = {
     "value-list-comma-space-after": "always",
     "value-list-comma-space-before": "never",
     "value-no-vendor-prefix": true,
-  }
+  },
 }
