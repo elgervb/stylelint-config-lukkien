@@ -3,6 +3,7 @@
 [![NPM version](http://img.shields.io/npm/v/stylelint-config-lukkien.svg)](https://www.npmjs.org/package/stylelint-config-lukkien)
 [![License](https://img.shields.io/npm/l/stylelint-config-lukkien.svg)](https://www.npmjs.com/package/stylelint-config-lukkien)
 [![Build Status](https://travis-ci.org/LUKKIEN/stylelint-config-lukkien.svg)](https://travis-ci.org/LUKKIEN/stylelint-config-lukkien)
+[![devDependencies Status](https://david-dm.org/LUKKIEN/stylelint-config-lukkien/dev-status.svg)](https://david-dm.org/LUKKIEN/stylelint-config-lukkien?type=dev)
 
 Configuration rules to ensure your CSS code is compliant with Lukkien code style.
 
