@@ -41,7 +41,7 @@ module.exports = {
     "media-feature-colon-space-after": "always",
     "media-feature-colon-space-before": "never",
     "media-feature-name-no-vendor-prefix": true,
-    "no-browser-hacks": false,
+    "no-browser-hacks": true,
     "no-eol-whitespace": true,
     "no-extra-semicolons": true,
     "no-duplicate-selectors": true,
