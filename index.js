@@ -56,7 +56,7 @@ module.exports = {
     "selector-no-id": true,
     "shorthand-property-no-redundant-values": true,
     "string-no-newline": true,
-    "string-quotes": "double",
+    "string-quotes": "single",
     "time-no-imperceptible": true,
     "unit-case": "lower",
     "unit-no-unknown": true,
